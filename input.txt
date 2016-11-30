@@ -1,0 +1,8 @@
+0	FDC39B	Polyimide	aSi	4
+2880	FDC39B	Polyimide	aSi	4
+2880	FDC39B	Polyimide	aSi	4
+2880	FDC39B	Polyimide	aSi	4
+2880	FDC39B	Polyimide	aSi	4
+2880	FDC39B	Polyimide	aSi	4
+2880	FDC39B	Polyimide	aSi	4
+2880	FDC39B	Polyimide	aSi	4
